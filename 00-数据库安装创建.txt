@@ -1,0 +1,17 @@
+linux 安装数据库mysql  db2 mongodb redis
+linux 用户管理  组：database 用户名:mysql001 db2001 密码：qazqaz123
+数据库密码qazqaz123123..
+数据库：srcbdb(db2) qazqaz123123..
+数据库：srcb(mysql) qazqaz123123..
+
+
+https://mirrors.tuna.tsinghua.edu.cn/help/docker-ce/ Centos8 安装 docker
+https://www.cnblogs.com/kasnti/p/11929030.html CentOS安装Mysql
+https://www.hangge.com/blog/cache/detail_2831.html 通过容器安装DB2
+完成数据库安装、创建数据库的文档
+
+
+https://github.com/dalongm/MyBatisStudy
+https://www.talkwithtrend.com/Article/216283 分区表详解
+https://www.matools.com/blog/190251615 DB2数据库查询正在执行的sql进程并杀掉的四步骤
+https://www.shangmayuan.com/a/f6d1ce0487e44fddb9e4f27a.html db2 字段修改
