@@ -15,3 +15,4 @@ https://github.com/dalongm/MyBatisStudy
 https://www.talkwithtrend.com/Article/216283 分区表详解
 https://www.matools.com/blog/190251615 DB2数据库查询正在执行的sql进程并杀掉的四步骤
 https://www.shangmayuan.com/a/f6d1ce0487e44fddb9e4f27a.html db2 字段修改
+https://blog.csdn.net/ryandyj/article/details/78269052 DB2 修改列属性 设置默认值
