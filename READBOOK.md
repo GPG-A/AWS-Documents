@@ -7,3 +7,4 @@
 - Python Django开发实战
 - Python高效开发实战Django、Tornado、Flask、Twisted
 - Python网络爬虫
+- 疯狂Java讲义_第4版
