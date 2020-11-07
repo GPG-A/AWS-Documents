@@ -7,4 +7,3 @@
 - Python Django开发实战
 - Python高效开发实战Django、Tornado、Flask、Twisted
 - Python网络爬虫
-- Go语言入门经典
